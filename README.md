@@ -1,6 +1,8 @@
 
 # Contributing
 
+[![Build Status](https://dev.azure.com/venkatest/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/venkat5290.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/venkatest/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=main)
+
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
